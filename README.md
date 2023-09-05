@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Machine Learning, specifcally Deep Learning, as well as React for Front-End developement.
 - 💞️ I’m looking to collaborate on projects that benefit humanity and support causes that help make our world a better place to live in.
 - 📫 You may reach me:
-  - LinkedIn: www.linkedin.com/in/connorxcx
   - Email: ConnorNoelThomas@gmail.com
+  - LinkedIn: www.linkedin.com/in/connorxcx
