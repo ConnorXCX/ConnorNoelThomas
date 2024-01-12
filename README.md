@@ -5,3 +5,6 @@
 - 📫 You may reach me:
   - Email: ConnorNoelThomas@gmail.com
   - LinkedIn: www.linkedin.com/in/ConnorXCX
+
+
+<iframe width="100%" height="800" src="Resume - V2.pdf">
